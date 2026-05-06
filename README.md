@@ -1,1 +1,4 @@
 # Hit-Song-Prediction-Using-ML-Models
+Objective:
+To make use of the potential, machine learning algorithms that bring in prediction of a song’s likelihood of becoming a hit by data being collected from an existing dataset having 17425 hit songs and 17315 non-hit songs containing 17 features/columns. This dataset first undergoes pre-processing which includes tasks like cleaning, filling of null values, removing duplicates before modelling to machine learning algorithms and analysing to how each attributes effect in the making of a song to be a hit track. Later, the data is trained with a total of six machine learning algorithms which includes KNN, Random Forest, SVM, XGBoost Classifier, CatBoost, Extra Trees Classifier for prediction of which the one with highest accuracy is chosen with the help of model evaluation mechanism.
+
